@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movies_error_message">Ops! Ocorreu um erro ao carregar os filmes.</string>
+    <string name="sad_face">=(</string>
+    <string name="action_change_order_top_rated">Ordenar por Melhores Avaliados</string>
+    <string name="action_change_order_popular">Ordenar por Mais Populares</string>
+    <string name="release_date">Data de Lançamento:</string>
+    <string name="detail_movie_average_vote_value">%.01f / 10</string>
+    <string name="title_activity_detail_movie">Detalhes</string>
+</resources>

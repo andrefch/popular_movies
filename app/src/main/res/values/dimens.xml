@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movies_sad_face_text_size">36sp</dimen>
+    <dimen name="movies_error_message_margin_top">16dp</dimen>
+    <dimen name="movies_error_message_text_size">20sp</dimen>
+    <dimen name="movies_horizontal_margin">8dp</dimen>
+    <dimen name="app_bar_height">420dp</dimen>
+    <dimen name="detail_movie_title_text_size">28sp</dimen>
+    <dimen name="detail_movie_text_size">16sp</dimen>
+    <dimen name="detail_horizontal_padding">8dp</dimen>
+    <dimen name="detail_vertical_padding">8dp</dimen>
+    <dimen name="detail_movie_vertical_margin">8dp</dimen>
+</resources>
